@@ -1,0 +1,125 @@
+{
+    "sounds": {
+        "START_GAME": {
+            "author_name": "Freesound Community",
+            "use_for": "Start the game",
+            "url_author": "https://pixabay.com/users/freesound_community-46691455/",
+            "url_sound": "https://pixabay.com/sound-effects/film-special-effects-game-start-6104/",
+            "website": "Pixabay"
+        },
+        "EAT": {
+            "author_name": "Nahtt",
+            "use_for": "Eat",
+            "url_author": "https://pixabay.com/users/nahtt-49618517/",
+            "url_sound": "https://pixabay.com/sound-effects/people-eat-323883/",
+            "website": "Pixabay"
+        },
+        "UNLOCKED_ACHIEVEMENT": {
+            "author_name": "Mrstokes302",
+            "use_for": "Unlocked achievement",
+            "url_author": "https://pixabay.com/users/mrstokes302-48032194/",
+            "url_sound": "https://pixabay.com/sound-effects/film-special-effects-key-videogame-sfx-423629/",
+            "website": "Pixabay"
+        },
+        "GAME_OVER": {
+            "author_name": "SergeQuadrado",
+            "use_for": "Game over",
+            "url_author": "https://pixabay.com/users/sergequadrado-24990007/",
+            "url_sound": "https://pixabay.com/sound-effects/horror-scary-laugh-3-123865/",
+            "website": "Pixabay"
+        },
+        "LEVEL_UP": {
+            "author_name": "Universfield",
+            "use_for": "Level up",
+            "url_author": "https://pixabay.com/users/universfield-28281460/",
+            "url_sound": "https://pixabay.com/sound-effects/film-special-effects-game-level-complete-143022/",
+            "website": "Pixabay"
+        },
+        "PUSH_BUTTONS": {
+            "author_name": "Floraphonic",
+            "use_for": "Push buttons",
+            "url_author": "https://pixabay.com/users/floraphonic-38928062/",
+            "url_sound": "https://pixabay.com/sound-effects/film-special-effects-arcade-ui-6-229503/",
+            "website": "Pixabay"
+        }
+    },
+    "music": [
+        {
+            "id": 0,
+            "author_name": "Ehved2",
+            "url_author": "https://pixabay.com/users/ehved2-46502585/",
+            "url_song": "https://pixabay.com/music/ambient-emissary-of-darkness-250732/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 1,
+            "author_name": "Universfield",
+            "url_author": "https://pixabay.com/users/universfield-28281460/",
+            "url_song": "https://pixabay.com/music/mystery-dark-cinematic-tension-175958/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 2,
+            "author_name": "IHateTuesdays",
+            "url_author": "https://pixabay.com/users/ihatetuesdays-39387169/",
+            "url_song": "https://pixabay.com/music/beats-video-game-boss-fight-music-287355/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 3,
+            "author_name": "nickpanekAIassets",
+            "url_author": "https://pixabay.com/users/nickpanekaiassets-38266323/",
+            "url_song": "https://pixabay.com/music/video-games-chiptune-medium-boss-218095/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 4,
+            "author_name": "kaazoom",
+            "url_author": "https://pixabay.com/users/kaazoom-448850/",
+            "url_song": "https://pixabay.com/music/celtic-in-the-merry-month-of-may-medieval-fantasy-music-501460/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 5,
+            "author_name": "vjgalaxy",
+            "url_author": "https://pixabay.com/users/vjgalaxy-8110364/",
+            "url_song": "https://pixabay.com/music/celtic-traditional-celtic-folk-music-02-508002/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 6,
+            "author_name": "DeusLower",
+            "url_author": "https://pixabay.com/es/users/deuslower-45666444/",
+            "url_song": "https://pixabay.com/es/music/ambiente-medieval-ambient-236809/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 7,
+            "author_name": "vjgalaxy",
+            "url_author": "https://pixabay.com/es/users/vjgalaxy-8110364/",
+            "url_song": "https://pixabay.com/es/music/electr%c3%b3nico-edm-celtic-music-09-482033/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 8,
+            "author_name": "pianocafe_Kumi",
+            "url_author": "https://pixabay.com/users/pianocafe_kumi-35185506/",
+            "url_song": "https://pixabay.com/music/modern-classical-halloween-bgmeinherjar-421376/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 9,
+            "author_name": "Psychronic",
+            "url_author": "https://pixabay.com/users/psychronic-13092015/",
+            "url_song": "https://pixabay.com/music/synthwave-light-vortex-433844/",
+            "website": "Pixabay"
+        },
+        {
+            "id": 10,
+            "author_name": "vjgalaxy",
+            "url_author": "https://pixabay.com/users/vjgalaxy-8110364/",
+            "url_song": "https://pixabay.com/music/choir-epic-gregorian-choir-cinematic-soundtrack-355524/",
+            "website": "Pixabay"
+        }
+    ]
+}
