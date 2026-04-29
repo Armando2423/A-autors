@@ -121,5 +121,10 @@
             "url_song": "https://pixabay.com/music/choir-epic-gregorian-choir-cinematic-soundtrack-355524/",
             "website": "Pixabay"
         }
-    ]
+    ],
+    "image": {
+        "author_name": "alouka",
+        
+        "original_image" : "https://pixie.haus/@alouka"
+    }
 }
