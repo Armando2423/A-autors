@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="baaPkst_fx7B8XwQ3piN">
+    <mxGraphModel dx="848" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;h2&gt;&lt;font face=&quot;Lucida Console&quot;&gt;SISTEMA INTEGRAL DE GESTIÓN PARA DESPACHOS JURIDÍCOS&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="120" width="470" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-10" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.521;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;shape=filledEdge;endArrow=none;endFill=0;entryX=0.529;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" target="SItCdcu3VQUnLmNDvhAy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000963);strokeColor=light-dark(#000000,#000080);strokeWidth=3;" value="&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;DASHBOARD&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Resumen general, indicadores y actividades recientes&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="357.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-18" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="SItCdcu3VQUnLmNDvhAy-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#430363);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b style=&quot;&quot;&gt;AGENDA&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Gestión de citas, audiencias y reuniones&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="137" x="300" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#A703F5);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;CALENDARIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="360" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#A703F5);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;AUDENCIAS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="360" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#A703F5);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;REUNIONES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="360" y="544.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#A703F5);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;RECORDATORIOS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="360" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#A703F5);strokeColor=light-dark(#000000,#640B80);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Eventos&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="360" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-20" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="SItCdcu3VQUnLmNDvhAy-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-21" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="SItCdcu3VQUnLmNDvhAy-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-22" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="SItCdcu3VQUnLmNDvhAy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-23" edge="1" parent="1" source="SItCdcu3VQUnLmNDvhAy-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" target="SItCdcu3VQUnLmNDvhAy-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SItCdcu3VQUnLmNDvhAy-24" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="4.910774964587051" width="4.918462918016375" x="180.2820640447112" y="346.97401311423073" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
