@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="baaPkst_fx7B8XwQ3piN">
-    <mxGraphModel dx="2292" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,9 @@
         </mxCell>
         <mxCell id="WdSaoBqxy8mkCAILDOOT-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#062101);strokeColor=light-dark(#000000,#014009);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;FACTURACIÓN Y COBRANZA&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Gestión de facturas y pagos&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="137" x="-34" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="WdSaoBqxy8mkCAILDOOT-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2F5925);strokeColor=light-dark(#000000,#000F06);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;FACTURAS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="10" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
