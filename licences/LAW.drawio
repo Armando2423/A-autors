@@ -380,6 +380,15 @@
         <mxCell id="WdSaoBqxy8mkCAILDOOT-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2F5925);strokeColor=light-dark(#000000,#000F06);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;FACTURAS&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="137" x="10" y="920" as="geometry" />
         </mxCell>
+        <mxCell id="WdSaoBqxy8mkCAILDOOT-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2F5925);strokeColor=light-dark(#000000,#000F06);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;PAGOS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="10" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WdSaoBqxy8mkCAILDOOT-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2F5925);strokeColor=light-dark(#000000,#000F06);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;ADEUDOS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="10" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="WdSaoBqxy8mkCAILDOOT-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2F5925);strokeColor=light-dark(#000000,#000F06);strokeWidth=3;" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;HISTORIAL DE COBROS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="137" x="10" y="1100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
